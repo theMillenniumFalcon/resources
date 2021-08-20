@@ -20,5 +20,18 @@
 
 ### New Startups:
 
+- Node, react and mostly what we learn during colleges.
+
+## Transition:
+
 - Django, NodeJS --> In India
 - Ruby on rails --> For Remote Jobs
+
+- Backend Java --> Kotlin
+- Android Java --> Kotlin
+
+- IOS -> Swift or Dart
+
+- Django, Ruby on Rails, Node --> Go
+
+- Javascript --> Typescript
