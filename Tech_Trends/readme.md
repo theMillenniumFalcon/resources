@@ -1,4 +1,4 @@
-# Curent trends in tech as per 2020
+# Current trends in tech as per 2020
 
 ## Mobiile frameworks-
 
