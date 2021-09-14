@@ -1,0 +1,54 @@
+## Devops roadmap:
+
+- Programming language:
+  - Python
+  - Golang
+- Server administration:
+  - Linux --> Very very important
+  - Unix systems
+  - Windows
+- Network and security
+  - TCP / IP
+  - Protocols
+- Servers
+  - Web servers:
+    - Apache --> important
+    - Nginx --> important
+    - Tomcat
+  - Caching:
+    - Redis
+    - Memcached
+  - Databases:
+    - No SQL:
+      - MongoDB
+      - AWS (Dynamo DB)
+      - Google cloud (Datastore)
+    - SQL:
+      - My SQL
+      - Postgresql
+- Infrastructure as code:
+  - Configuration management:
+    - Ansible by readhat --> important
+    - Puppet
+    - Containers:
+      - Docker
+    - Container orchestration:
+      - Kubernetes
+      - K8s
+    - Infrastructure provisioning:
+      - Terraform
+      - Cloud providers:
+        - Google deployment manager
+- CI/CD:
+  - Jenkins
+  - Circle CI
+  - Travis CI
+  - Github actions
+- Monitoring and logging:
+  - Prometheus
+  - Grafana
+  - Thanos
+- Cloud:
+  - Google Cloud Provider
+  - AWS
+  - Microsoft azure
