@@ -4,12 +4,19 @@
   - Python
   - Golang
 - Server administration:
-  - Linux --> Very very important
+  - Linux and it's distributions --> Very very important
+    - Linux commands
+    - User and file management
   - Unix systems
   - Windows
+  - Bash / shell scripting
 - Network and security
   - TCP / IP
   - Protocols
+- Proxy:
+  - HAProxy
+  - Traefik
+- Secure Shell and commands
 - Servers
   - Web servers:
     - Apache --> important
@@ -26,29 +33,118 @@
     - SQL:
       - My SQL
       - Postgresql
-- Infrastructure as code:
-  - Configuration management:
-    - Ansible by readhat --> important
-    - Puppet
-    - Containers:
-      - Docker
-    - Container orchestration:
-      - Kubernetes
-      - K8s
-    - Infrastructure provisioning:
-      - Terraform
-      - Cloud providers:
-        - Google deployment manager
+- Basic Networking:
+  - How sytems communicate
+  - LAN / WAN
+  - What is a switch, router, ISP?
+  - IP address and types
+  - OSI model
+  - Basic subnetting
+  - DNS basics --> important
+  - Switching + Routing
+- Yaml
+- Git
+- Cloud: --> any one
+  - Network
+  - Storage
+  - Compute
+  - IAM
+  - Billing
+- Virtualization and containers:
+  - Difference between virtual machines and containers
+  - Container Technologies:
+    - Docker
+    - Docker advanced:
+      - Docker security
+      - Docker best practices
+      - Container security scan
+    - Podman + Buildah
+    - Kaniko: build from dockerfile inside container K8's cluster
+    - Ko: go apps
+    - Kim: CRI, containerd, buildkit 
+- Kubernetes:
+  - Container orchestration
+  - A must for all domains
+  - K8's
+  - Architecture
+  - Objects
+  - Secrets
+  - Config maps
+  - PU, PUC
+  - Networking
+  - Services
+  - A mindmap:
+    - How to setup K8's on compute using containerd
+      - HA install:
+        - Kubepip
+        - HA proxy
+    - Observability
+    - security
+    - CI/CD
+    - Service Mesh
+    - Auto-scaling
+    - Chaos mesh --> Litmus
+    - Flux Argo --> Fleet ( gitOps )
+    - Velero
+    - Infrastructure provisioning tools
+  - Certification:
+    - KCNA, CKA, CKAD, CKS
 - CI/CD:
-  - Jenkins
+  - Jenkins --> important
+  - Github actions --> important
   - Circle CI
   - Travis CI
-  - Github actions
-- Monitoring and logging:
-  - Prometheus
-  - Grafana
-  - Thanos
-- Cloud:
-  - Google Cloud Provider
-  - AWS
-  - Microsoft azure
+  - Kubernetes native
+  - GitOps
+  - Flux CD, Argo CD, Fleet
+- Infrastructure as code:
+  - Terraform
+  - CrossPlane
+  - Pulumi
+  - IAC topics:
+    - Code to create infrastructure.
+    - Automate --> creation, updating, deleting infrastructure.
+    - No manual errors.
+    - No configuration
+    - State of your infrastructure
+  - Configuration Management:
+    - Ansible
+- Observability:
+  - What is observability?
+  - Observability pillars
+  - Tools: --> setup and configuration
+    - Monitoring:
+      - Nagios
+      - Prometheus:
+        - Is is a time series database
+        - Thanos for high available prometheus
+        - Grafana for visualization
+    - Logging:
+      - Loki
+      - Elastic
+    - Tracing:
+      - Jaegar
+    - Profiling:
+      - Parca
+  - Opentelemetry
+  - Opentracing
+- Chaos Engineering:
+  - Chaos mesh
+  - Litmus
+- Policies:
+  - Kubewarden
+  - OPA (Open Policy Agent)
+  - Kyverno
+  - Js Policy
+- Service mesh:
+  - Linkerd
+  - Istio
+- Other stuff:
+  - SupplyChain security
+  - Container security
+  - Kubernetes security
+  - CNCF landscape
+  - Operators
+    - What are they
+    - How to write Kubernetes operators
+    - Operator SDK

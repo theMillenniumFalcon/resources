@@ -1,0 +1,60 @@
+## Resources for DevOps:
+
+- https://www.edx.org/course/introduction-to-linux
+- https://www.youtube.com/watch?v=Wvf0mBNGjXY&t=27s
+- https://www.youtube.com/watch?v=rv3QK2UquxM
+- https://www.amazon.in/_/dp/1492081655?tag=oreilly20-20
+- https://www.youtube.com/watch?v=RyXL1zOa8Bw
+- For docker:
+    - https://www.youtube.com/playlist?list=PL5uLNcv9SibBZj30yqG01a7A4_MXSyGK3
+    - https://www.youtube.com/watch?v=9zUHg7xjIqQ
+    - https://www.youtube.com/watch?v=3c-iBn73dDE&t=12s
+    - https://www.youtube.com/watch?v=GwXLNAcHk-k
+    - https://www.youtube.com/playlist?list=PLmw3X80dPdlyRV2EUKnFOvBACs_tcArd0
+    https://www.youtube.com/watch?v=JofsaZ3H1qM
+- Docker advance:
+    - https://www.youtube.com/watch?v=KINjI1tlo2w
+    - https://www.youtube.com/watch?v=mQkVB6KMHCg
+- Kubernetes:
+    - Civo academy
+    - Kube.academy
+    - https://www.youtube.com/watch?v=X48VuDVv0do
+- Kubernetes certification:
+    - https://www.youtube.com/watch?v=iGkFHB1kFZ0&t=268s
+    - https://www.youtube.com/watch?v=jZOs8Oips7Q
+    - https://www.youtube.com/playlist?list=PL5uLNcv9SibBz9WtAxydEEXauA0j6Km3A
+    - https://saiyampathak.gumroad.com/l/cksbook
+- For more depth kubernetes knowledge:
+    - Networking and kubernetes --> book
+    - Production kubernetes --> book
+    - Hacking kubernetes --> book
+- GitOps certification:
+    - https://codefresh.learnworlds.com/
+- CI/CD:
+    - https://www.youtube.com/watch?v=FX322RVNGj4
+    - https://www.youtube.com/watch?v=R8_veQiYBjI&t=1111s
+- Terraform:
+    - https://www.youtube.com/watch?v=SLB_c_ayRMo
+    - https://www.youtube.com/watch?v=V4waklkBC38
+- CrossPlane:
+    - https://www.youtube.com/watch?v=NLHmqVUvtkU
+    - https://www.youtube.com/watch?v=78xR7ypzB4Q
+- Observability:
+    - https://www.youtube.com/watch?v=aMZoUIG-mgY
+    - https://www.youtube.com/watch?v=llwxJ0VdYWY
+    - https://www.youtube.com/watch?v=Pr3MbsGHljI
+    - https://www.youtube.com/watch?v=B5UY-qeW96I
+    - https://www.youtube.com/watch?v=TqfIfUuuPdE
+- Chaos Engineering:
+    - https://www.youtube.com/watch?v=HAU_cjW1bMw
+    - https://www.youtube.com/watch?v=rDQ9XKbSJIc
+    - https://www.youtube.com/watch?v=HmQ9cFwxF7g
+    - https://www.youtube.com/watch?v=uBGPFfTu6TU
+- Policies:
+    - https://www.youtube.com/watch?v=gKQOq7904h8
+    - https://learn.nirmata.com/courses/introduction-to-kyverno
+    - https://learn.nirmata.com/courses/kyverno-in-production
+- Service mesh:
+    - https://www.edx.org/course/introduction-to-service-mesh-with-linkerd
+- Security:
+    - https://www.oreilly.com/library/view/container-security/9781492056690/ --> book
