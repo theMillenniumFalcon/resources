@@ -1,0 +1,55 @@
+## Spring boot roadmap:
+- Read documentation
+- Spring Framework - Core:
+    - Configuration (Profiles)
+    - Spring MVC:
+        - Web Servers -> Tomcat and Jetty
+        - HTTP
+        - Spring Rest Docs
+    - Dependency injection
+    - Available annotations
+    - Scheduling
+- Security:
+    - OAuth2
+    - Form Auth
+    - Basic Auth
+    - JWT
+    - Authentication and Authorization
+- Spring Boot (it makes very easy to build microservices):
+    - Testing:
+        - JPATest
+        - MockMVC
+        - Testing Services
+        - Mocking
+    - Database (any one):
+        - Hibernate (ORM):
+            - Transactions
+            - Relationships:
+                - OneToMany
+                - OneToOne
+                - ManyToMany
+            - Entity Lifecycle
+        - Spring Data:
+            - Spring Data JDBC -> JDBC Template
+            - Spring Data JPA (great for small apps)
+            - Spring Data MongoDB
+        - Database Design
+        - Relational Databases:
+            - Queries
+            - All types of joins
+            - Indexes
+            - Transactions
+            - Locking
+    - Microservices:
+        - Spring Cloud:
+            - Spring cloud Gateaway
+            - Hystrix
+            - Sleuth
+            - CLoud Config
+            - Eureka
+            - OpenFeign
+        - Docker and Kubernetes
+        - Message Queues:
+            - SQS
+            - Kafka
+            - RabbbitMQ
